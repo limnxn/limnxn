@@ -1,4 +1,6 @@
-<p align="center"><a href="https://github.com/limnxn/Resume"><img src="images/limnxn.png" width="128px"></a></p>
+<p align="center">
+  <img src="images/limnxn.png" width="128px">
+</p>
 
 $$\int_{\pi}^{2\pi} \cos(x)dx = \lim_{n\to\infty} \sum_{i = 1}^{n} (\cos(\pi + \frac{\pi i}{n}) . \frac{\pi}{n})$$
 
