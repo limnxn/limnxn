@@ -7,10 +7,10 @@ $$\int_{\pi}^{2\pi} \cos(x)dx = \lim_{n\to\infty} \sum_{i = 1}^{n} (\cos(\pi + \
 ```ruby
 class Limnxn < Math::Base
   DEFAULT_OPTIONS = {
-    databases: ["MySQL", "MongoDB"],
-    frameworks: ["Laravel", "Nuxt", "Rails", "Selenium", "Vue"],
-    languages: ["Java", "PHP", "Python", "Ruby", "TypeScript"],
-    middleware: ["Apache", "Nginx", "Tomcat"],
+    database: ["MySQL", "MongoDB"],
+    framework: ["Laravel", "Nuxt", "Rails", "Selenium", "Vue"],
+    language: ["Java", "PHP", "Python", "Ruby", "TypeScript"],
+    server: ["Apache", "Nginx", "Tomcat"],
     runtime: ["Deno", "Node.js"],
   };
   def result
