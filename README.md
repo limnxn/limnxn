@@ -9,7 +9,7 @@ class Limnxn < Math::Base
   DEFAULT_OPTIONS = {
     database: ["MySQL", "MongoDB"],
     framework: ["Laravel", "Nuxt", "Rails", "Selenium", "Vue"],
-    language: ["Java", "PHP", "Python", "Ruby", "TypeScript"],
+    language: ["Java", "PHP", "Ruby", "Python", "TypeScript"],
     server: ["Apache", "Nginx", "Tomcat"],
     runtime: ["Deno", "Node.js"],
   };
