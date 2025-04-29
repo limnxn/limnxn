@@ -8,7 +8,7 @@ $$\int_{\pi}^{2\pi} \cos(x)dx = \lim_{n\to\infty} \sum_{i = 1}^{n} (\cos(\pi + \
 class Limnxn < Math::Base
   DEFAULT_OPTIONS = {
     databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    frameworks: ["Hono", "Laravel", "NestJS", "Nuxt", "Oak", "Rails"],
+    frameworks: ["Hono", "Laravel", "Nuxt", "Oak", "Quarkus", "Rails"],
     languages: ["C#", "Java", "PHP", "Ruby", "Python", "TypeScript"],
     servers: ["Apache", "Nginx", "Tomcat"],
     runtime_environments: ["Deno", "Node.js"],
